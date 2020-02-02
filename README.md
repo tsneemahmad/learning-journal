@@ -8,9 +8,11 @@ we can style text in deffeirent ways; for example we can make it bold or italic,
 
 we can qoute texts in markdown like this:
 prophet muhammad said:
+
 > pray like you saw me praying.
 
 also we can put links in our page, for example;
+
 i created my repo using the [GitHub](https://github.com/)
 
 we can type our unordered listlike this:
