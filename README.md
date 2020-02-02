@@ -1,37 +1,18 @@
 ## Welcome to GitHub Pages
+by using markdown we can do various features like:
+headings; we can identify heading using # from 1 to 6 depends on the heading importance. for example the below heading
+### welcome to my repo
+we can style text in deffeirent ways; for example we can make it bold or italic, or bold and italic at the same time. for example:
+**this is my new _repo_**
+we can qoute texts in markdown like this:
+prophet muhammad said:
+> pray like you saw me praying.
+also we can put links in our page, for example;
+i created my repo using the [GitHub](https://github.com/)
+we can type our unordered listlike this:
+- africa.
+- asia.
+- europe. 
 
-You can use the [editor on GitHub](https://github.com/tsneemahmad/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tsneemahmad/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I'm tsneem al-amarat and i'm an architect, i graduated from BAU last year and now i'm taking the advanced coding course in LTUC with partnership with cod fellows.
+and this is my [personal repo](https://github.com/tsneemahmad/the-new-repo)
