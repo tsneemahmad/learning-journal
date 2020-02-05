@@ -10,17 +10,13 @@ evaluating conditions
  it compares two values to check that both the data and value are the same.
  !== : strict not equal to
  it compares two values to check  that both the data and value are not the same.
- > : greater than
- it checks if the number on the left is greater than the one on the right.
- < : it checks if the number on the left is less than the one on the right.
- >= : it checks if the number on the left is greater or equal to the one on the right.
- <= : it checks if the number on the left is less than or equal to the one on the right.
+ 
 
  ### logical operators
  comparison operators usually return single values of true or false. logical operators allow you to compare the results of more than one comparison operator.
- && : logical and
- || : logical or
- ! : logical not
+ - && : logical and
+ - || : logical or
+ - ! : logical not
 
  ### loops
  loops check a condition. if it returns, a code block will run. then the condition will be checked again and it still returns true, the code block will run again. it repeats until the coondition returns false. there are three common types of loops:
