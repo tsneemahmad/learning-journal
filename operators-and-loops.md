@@ -31,11 +31,7 @@ evaluating conditions
  - update
 
  ### USING WHILE LOOPS
- This loop will continue to run
-for as long as the condition in
-the parentheses is true. That
-condition is a counter indicating
-that, as long as the variable
-i remains less than 10, the
-statements in the subsequent
-code block should run.
+ This loop will continue to run for as long as the condition in
+the parentheses is true. That condition is a counter indicating
+that, as long as the variable i remains less than 10, the
+statements in the subsequent code block should run.
